@@ -5,7 +5,7 @@ Each file covers a specific course section with a focus on the exam objectives.
 
 ## Current Sections
 ### Section 1: General Security Concepts
-- [1.1 Security Concepts](./1.1-security-concepts.md)  
+- [1.1 Security Conrols](./1.1-security-controls.md)  
 - [1.2 Security Governance](./1.2-security-governance.md)  
 - [1.3 Risk Management](./1.3-risk-management.md)  
 - [1.4 Physical Security Controls](./1.4-physical-security-controls.md)  
