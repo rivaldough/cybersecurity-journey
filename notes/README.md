@@ -14,3 +14,4 @@ Each file covers a specific course section with a focus on the exam objectives.
 - [2.1 Threat Actors](./2.1-threat-actors.md)  
 - [2.2 Threat Attack Surfaces and Vectors](./2.2-threat-attack-surfaces-vectors.md)  
 - [2.3 Types of Vulnerabilities](./2.3-types-of-vulnerabilities.md)  
+- [2.4 Indicators of Malicious Activity](./2.4-indicators-malicious-activity.md)  
