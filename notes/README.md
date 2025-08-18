@@ -15,3 +15,29 @@ Each file covers a specific course section with a focus on the exam objectives.
 - [2.2 Threat Attack Surfaces and Vectors](./2.2-threat-attack-surfaces-vectors.md)  
 - [2.3 Types of Vulnerabilities](./2.3-types-of-vulnerabilities.md)  
 - [2.4 Indicators of Malicious Activity](./2.4-indicators-malicious-activity.md)  
+- [2.5 Mitigation Techniques](./2.5-mitigation-techniques.md)
+
+### Section 3: Security Architecture
+- [3.1 Architecture Models](./3.1-architecture-models.md)  
+- [3.2 Applying Security Principles](./3.2-applying-security-principles.md)  
+- [3.3 Protecting Data](./3.3-protecting-data.md)  
+- [3.4 Resiliency and Recovery](./3.4-resiliency-and-recovery.md)  
+
+### Section 4: Security Operations
+- [4.1 Security Techniques](./4.1-security-techniques.md)  
+- [4.2 Asset Management](./4.2-asset-management.md)  
+- [4.3 Vulnerability Management](./4.3-vulnerability-management.md)  
+- [4.4 Security Monitoring](./4.4-security-monitoring.md)  
+- [4.5 Enterprise Security](./4.5-enterprise-security.md)  
+- [4.6 Identity and Access Management](./4.6-identity-and-access-management.md)  
+- [4.7 Automation and Orchestration](./4.7-automation-and-orchestration.md)  
+- [4.8 Incident Response](./4.8-incident-response.md)  
+- [4.9 Security Data Sources](./4.9-security-data-sources.md)  
+
+### Section 5: Security Program Management and Oversight
+- [5.1 Security Governance](./5.1-security-governance.md)  
+- [5.2 Risk Management](./5.2-risk-management.md)  
+- [5.3 Third-party Risk](./5.3-third-party-risk.md)  
+- [5.4 Security Compliance](./5.4-security-compliance.md)  
+- [5.5 Audits and Assessments](./5.5-audits-and-assessments.md)  
+- [5.6 Security Awareness](./5.6-security-awareness.md)  
