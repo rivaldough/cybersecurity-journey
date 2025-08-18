@@ -19,7 +19,7 @@
 ## 🛠️ Tools & Environment
 - **OS Used:** Ubuntu
 - **Main Tools:** Snort
-- **Config Paths:** `/etc/snort/snort.conf`, `/etc/snort/rules/local.rules` 'Desktop/Task-Exercises/Exercise-Files/TASK-9/local-rules'
+- **Config Paths:** `/etc/snort/snort.conf`, `/etc/snort/rules/local.rules` '/Desktop/Task-Exercises/Exercise-Files/TASK-9/local-rules'
 
 ---
 
