@@ -40,6 +40,7 @@ alert icmp any any <> any any (msg:"ID FOUND"; id:35369; sid:100001; rev:1;)
 alert tcp any any <> any any (msg:"FLAG FOUND"; flags:S; sid:100002; rev:1;)
 alert tcp any any <> any any (msg:"FLAG FOUND"; flags:PA; sid:100003; rev:1;)
 alert udp any any <> any any (msg:"SAME-IP FOUND"; sameip; sid:100004; rev:1;)
+\\\
 
 ---
 
