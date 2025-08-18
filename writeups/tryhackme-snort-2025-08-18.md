@@ -19,8 +19,7 @@
 ## 🛠️ Tools & Environment
 - **OS Used:** Ubuntu
 - **Main Tools:** Snort
-- **Config Paths:** `/etc/snort/snort.conf`, `/etc/snort/rules/local.rules`, '/Desktop/Task-Exercises/Exercise-Files/TASK-9/local.rules'
-
+- **Config Paths:** `/etc/snort/snort.conf`, `/etc/snort/rules/local.rules`, `/Desktop/Task-Exercises/Exercise-Files/TASK-9/local-rules`  
 ---
 
 ## 🔍 Enumeration / Setup
@@ -38,6 +37,6 @@ sudo snort -c /etc/snort/snort.conf -A full -l . --pcap-list="mx-2.pcap mx-3.pca
 
 # Custom Rules
 alert icmp any any <> any any (msg:"ID FOUND"; id:35369; sid:100001; rev:1;)
-alert tcp any any <> any any (msg:"FLAG TEST"; flags:S; sid:100002; rev:1;)
-alert tcp any any <> any any (msg:"FLAG TEST"; flags:PA; sid:100003; rev:1;)
-alert udp any any <> any any (msg:"SAME-IP TEST"; sameip; sid:100004; rev:1;)
+alert tcp any any <> any any (msg:"FLAG FOUND"; flags:S; sid:100002; rev:1;)
+alert tcp any any <> any any (msg:"FLAG FOUND"; flags:PA; sid:100003; rev:1;)
+alert udp any any <> any any (msg:"SAME-IP FOUND"; sameip; sid:100004; rev:1;)
