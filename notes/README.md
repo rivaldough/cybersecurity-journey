@@ -17,6 +17,8 @@ Each file covers a specific course section with a focus on the exam objectives.
 - [2.4 Indicators of Malicious Activity](./2.4-indicators-malicious-activity.md)  
 - [2.5 Mitigation Techniques](./2.5-mitigation-techniques.md)
 
+⚠️ Sections 3–5 are placeholders for now — notes coming soon as I progress through the exam objectives.
+
 ### Section 3: Security Architecture
 - [3.1 Architecture Models](./3.1-architecture-models.md)  
 - [3.2 Applying Security Principles](./3.2-applying-security-principles.md)  
