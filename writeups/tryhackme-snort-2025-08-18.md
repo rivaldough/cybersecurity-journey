@@ -1,4 +1,4 @@
-# 🔒 TryHackMe Lab Write-Up — Snort
+# 🔒 TryHackMe — Snort
 
 ## 🧾 Lab Info
 - **Room Name:** Snort
