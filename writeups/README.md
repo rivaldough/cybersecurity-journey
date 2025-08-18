@@ -5,4 +5,6 @@ I don’t share flags or direct answers (to respect ToS), but I explain the proc
 
 
 ## 🔒 Completed Labs
+
+- [Cyber Kill Chain](./cyber-kill-chain-2025-07-28.md)
 - [Snort](./tryhackme-snort-2025-08-18.md)
