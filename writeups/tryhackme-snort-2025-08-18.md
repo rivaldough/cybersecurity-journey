@@ -40,3 +40,13 @@ alert icmp any any <> any any (msg:"ID FOUND"; id:35369; sid:100001; rev:1;)
 alert tcp any any <> any any (msg:"FLAG FOUND"; flags:S; sid:100002; rev:1;)
 alert tcp any any <> any any (msg:"FLAG FOUND"; flags:PA; sid:100003; rev:1;)
 alert udp any any <> any any (msg:"SAME-IP FOUND"; sameip; sid:100004; rev:1;)
+
+---
+
+## 📚 Key Takeaways
+- Learned the three main Snort modes: **sniffer, packet logger, IDS**.  
+- Practiced writing **custom Snort rules** (ICMP, TCP, UDP).  
+- Gained experience analyzing **pcap traffic** with different output formats.  
+- Reinforced the importance of **rule IDs (SIDs/REV)** for rule management.  
+- Saw how IDS can be tuned for **specific attacks or anomalies**.  
+- Learned to structure and document labs for a professional GitHub portfolio.  
