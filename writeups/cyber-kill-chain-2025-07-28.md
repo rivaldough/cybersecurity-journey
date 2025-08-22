@@ -1,4 +1,4 @@
-# 🔒 TryHackMe Lab Write-Up — Cyber Kill Chain
+# 🔒 TryHackMe — Cyber Kill Chain
 
 ## 🧾 Lab Info
 - **Room Name:** Cyber Kill Chain
