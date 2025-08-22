@@ -16,5 +16,6 @@ Each entry includes commands, rules, and key takeaways, written in a consistent 
   - Practiced writing and running basic YARA rules, explored IOC scanning with Loki.
     
 ### 2025-08-18
-- [Snort](./tryhackme-snort-2025-08-18.md) — Network Security & Traffic Analysis (**Medium**)  
+- [Snort](./snort-2025-08-18.md) — Network Security & Traffic Analysis (**Medium**)  
   - Wrote custom Snort rules and tested them against `.pcap` traffic.  
+  - Completed “Snort Challenge – The Basics” (reinforcement lab)
