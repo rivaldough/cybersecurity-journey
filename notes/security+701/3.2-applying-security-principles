@@ -1,0 +1,139 @@
+# **Section 3.2: Applying Security Principles**  
+
+**Objective:** Given a scenario, apply security principles to secure enterprise infrastructure.  
+
+---
+
+## Infrastructure Considerations  
+
+### Device Placement  
+- Firewalls typically go at the perimeter, IDS sensors behind them, jump servers in DMZ.  
+- Goal: reduce attack surface and limit exposure.  
+
+### Security Zones  
+- DMZ: Public-facing systems (web servers, email gateways).  
+- Internal network: Workstations, servers.  
+- Restricted zone: Critical assets (databases, domain controllers).  
+- Principle: the deeper in, the more protected.  
+
+### Attack Surface  
+- Every open port, service, or connection is an entry point.  
+- Reduce attack surface by patching, closing unused ports, and limiting services.  
+
+### Connectivity  
+- Direct vs. segmented communication.  
+- Use segmentation/VLANs to avoid flat networks.  
+
+### Failure Modes  
+- Fail-open: Traffic flows if device fails. More available, less secure.  
+- Fail-closed: Traffic blocked if device fails. More secure, less available.  
+- Choice depends on context (e.g., hospital networks may prefer fail-open).  
+
+### Device Attributes  
+- Active vs. Passive:  
+  - Active = interacts with traffic (IPS, firewall).  
+  - Passive = only observes (IDS, sensors).  
+- Inline vs. Tap/Monitor:  
+  - Inline = sits in the traffic path, can block.  
+  - Tap/Monitor = copies traffic, cannot block.  
+
+---
+
+## Network Appliances  
+
+- Jump Server: Hardened system to manage devices in a restricted zone.  
+- Proxy Server: Mediates user traffic, hides IP, enforces policies.  
+- IDS/IPS: IDS detects and alerts, IPS blocks malicious traffic.  
+- Load Balancer: Splits traffic across servers, can offload SSL.  
+- Sensors: Passive devices that capture traffic for SIEM or analysis.  
+
+---
+
+## Port Security  
+
+- 802.1X: Port-based network access control. Device must authenticate (often with RADIUS).  
+- EAP (Extensible Authentication Protocol): Flexible authentication used in Wi-Fi and VPNs (EAP-TLS, PEAP, etc.).  
+
+---
+
+## Firewall Types  
+
+- Web Application Firewall (WAF): Protects web applications (SQLi, XSS).  
+- Unified Threat Management (UTM): All-in-one device (firewall + AV + VPN + IPS).  
+- Next-Generation Firewall (NGFW): Deep packet inspection, identity-aware policies.  
+- Layer 4 vs. Layer 7:  
+  - L4 = transport layer (IP, port, protocol).  
+  - L7 = application layer (can inspect HTTP requests, app-specific traffic).  
+
+---
+
+## Secure Communication and Access  
+
+- VPN: Encrypted tunnel into a private network.  
+- Remote Access: Secure connections for off-site users.  
+- Tunneling: Encapsulating traffic in secure protocols.  
+  - TLS: Used in HTTPS, point-to-point encryption.  
+  - IPSec: Used for VPNs; AH for integrity, ESP for encryption.  
+- SD-WAN: Software-defined WAN, cloud-managed, improves routing and visibility.  
+- SASE (Secure Access Service Edge): Combines SD-WAN with cloud-based security services (CASB, ZTNA, FWaaS).  
+
+---
+
+## Selection of Effective Controls  
+
+- Match controls to risks:  
+  - IDS/IPS = detect/block malicious traffic.  
+  - Firewalls = enforce segmentation and policy.  
+  - VPN/IPSec = secure remote access.  
+  - WAF = protect web-facing apps.  
+- Key principles:  
+  - Defense-in-depth.  
+  - Least privilege.  
+  - Fail-safe defaults.  
+  - Continuous monitoring.  
+
+---
+
+# Flashcards – Section 3.2  
+
+**Q: What is the purpose of a DMZ?**  
+A: To host public-facing systems (web/email servers) while isolating them from the internal network.  
+
+**Q: What is the difference between fail-open and fail-closed?**  
+A: Fail-open allows traffic if the device fails (less secure, more available). Fail-closed blocks traffic if it fails (more secure, less available).  
+
+**Q: What is the difference between active vs passive devices?**  
+A: Active devices interact with traffic (IPS, firewall). Passive devices only observe (IDS, sensors).  
+
+**Q: Inline vs Tap/Monitor?**  
+A: Inline devices sit in the traffic path and can block. Tap/Monitor devices observe a copy of traffic and cannot block.  
+
+**Q: Jump server vs proxy server?**  
+A: Jump server is used to securely manage devices in a restricted zone. Proxy server filters/mediates user traffic and hides client IPs.  
+
+**Q: IDS vs IPS?**  
+A: IDS = detects and alerts. IPS = actively blocks traffic.  
+
+**Q: What does 802.1X provide?**  
+A: Port-based network access control; requires device authentication.  
+
+**Q: What is EAP used for?**  
+A: Flexible authentication in wireless networks and VPNs.  
+
+**Q: What does a WAF protect against?**  
+A: Web application attacks like SQL injection and XSS.  
+
+**Q: What is the difference between NGFW and traditional firewalls?**  
+A: NGFW inspects traffic deeply (Layer 7), applies identity-based policies, and detects advanced threats.  
+
+**Q: TLS vs IPSec?**  
+A: TLS = point-to-point encryption (HTTPS). IPSec = VPN tunnels; AH for integrity, ESP for encryption.  
+
+**Q: What is SD-WAN?**  
+A: Software-defined WAN with centralized cloud management for routing and security.  
+
+**Q: What is SASE?**  
+A: Secure Access Service Edge; combines SD-WAN with cloud-delivered security (CASB, ZTNA, FWaaS).  
+
+**Q: What are key principles for effective security controls?**  
+A: Defense-in-depth, least privilege, fail-safe defaults, continuous monitoring.  
