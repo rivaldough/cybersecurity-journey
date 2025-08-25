@@ -19,7 +19,7 @@ Each file covers a specific course section with a focus on the exam objectives.
 
 ### Section 3: Security Architecture
 - [3.1 Architecture Models](./3.1-architecture-models.md)  
-- [3.2 Applying Security Principles](./3.2-applying-security-principles.md) *(coming soon)*  
+- [3.2 Applying Security Principles](./3.2-applying-security-principles.md)  
 - [3.3 Protecting Data](./3.3-protecting-data.md) *(coming soon)*  
 - [3.4 Resiliency and Recovery](./3.4-resiliency-and-recovery.md) *(coming soon)*  
 
