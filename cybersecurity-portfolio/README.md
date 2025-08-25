@@ -32,7 +32,7 @@ Aspiring SOC Analyst based in Toronto, Canada. Currently studying for **CompTIA 
 ## 📂 Repositories  
 - 📘 [Writeups](https://github.com/rivaldough/cybersecurity-journey/tree/main/writeups) – TryHackMe & lab documentation  
 - 💻 [Scripts](https://github.com/rivaldough/cybersecurity-journey/tree/main/scripts) – Python, Bash, and detection tooling  
-- 📊 [Labs](https://github.com/rivaldough/cybersecurity-journey/tree/main/labs) – SIEM, IDS, and packet analysis environments *(if you spin this repo up later)*  
+- 📘 [Notes](https://github.com/rivaldough/cybersecurity-journey/tree/main/notes) – Security+ study notes 
 
 ---
 
