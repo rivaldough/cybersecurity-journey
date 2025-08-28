@@ -21,7 +21,7 @@ Each file covers a specific course section with a focus on the exam objectives.
 - [3.1 Architecture Models](./3.1-architecture-models.md)  
 - [3.2 Applying Security Principles](./3.2-applying-security-principles.md)  
 - [3.3 Protecting Data](./3.3-protecting-data.md)
-- [3.4 Resiliency and Recovery](./3.4-resiliency-and-recovery.md) *(coming soon)*  
+- [3.4 Resiliency and Recovery](./3.4-resiliency-and-recovery.md)
 
 ### Section 4: Security Operations
 - [4.1 Security Techniques](./4.1-security-techniques.md) *(coming soon)*  
