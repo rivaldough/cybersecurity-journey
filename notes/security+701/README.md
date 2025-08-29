@@ -24,7 +24,7 @@ Each file covers a specific course section with a focus on the exam objectives.
 - [3.4 Resiliency and Recovery](./3.4-resiliency-and-recovery.md)
 
 ### Section 4: Security Operations
-- [4.1 Security Techniques](./4.1-security-techniques.md) *(coming soon)*  
+- [4.1 Security Techniques](./4.1-security-techniques.md)
 - [4.2 Asset Management](./4.2-asset-management.md) *(coming soon)*  
 - [4.3 Vulnerability Management](./4.3-vulnerability-management.md) *(coming soon)*  
 - [4.4 Security Monitoring](./4.4-security-monitoring.md) *(coming soon)*  
