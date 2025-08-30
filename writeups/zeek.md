@@ -1,4 +1,4 @@
-# 🔒 TryHackMe Lab Write-Up — Zeek
+# 🔒 TryHackMe — Zeek
 
 ## 🧾 Lab Info
 - **Room Name:** Zeek (Bro)
