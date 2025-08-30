@@ -4,8 +4,9 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme)](https://tryhackme.com/p/rivaldough)  
 ![Security+](https://img.shields.io/badge/Certification-Security%2B%20(in%20progress)-orange)  
 ![Python](https://img.shields.io/badge/Code-Python-blue?logo=python)  
-![Snort](https://img.shields.io/badge/Tools-Snort%20IDS-green)  
-![Splunk](https://img.shields.io/badge/Tools-Splunk-yellow)  
+![SIEM](https://img.shields.io/badge/Tools-SIEM-blue)  
+![IDS/IPS](https://img.shields.io/badge/Tools-IDS%2FIPS-green)  
+![Packet Analysis](https://img.shields.io/badge/Skills-Packet%20Analysis-yellow) 
 
 ---
 
@@ -17,15 +18,6 @@ Aspiring SOC Analyst based in Toronto, Canada. Currently studying for **CompTIA 
 ## 🏆 Achievements  
 - 🥇 **1st Place in TryHackMe Sapphire League (August 2025)**  
 - 🔥 Maintaining a daily TryHackMe streak (Blue Team focus)  
-- 📖 Studying CompTIA Security+ (Target date: Oct 30, 2025)  
-
----
-
-## 🔧 Labs & Projects  
-- **Snort IDS Rules** – built custom alerts for GIFs, PNGs, HTML requests  
-- **Packet Analysis** – TCP/SSH traffic analysis, protocol fingerprinting  
-- **SOC Playbooks** – incident response workflows (under construction)  
-- **SIEM Exploration** – building Splunk/Wazuh home labs  
 
 ---
 
