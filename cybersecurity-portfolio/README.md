@@ -37,7 +37,8 @@ Aspiring SOC Analyst based in Toronto, Canada. Currently studying for **CompTIA 
 ---
 
 ## 🎓 Certifications (In Progress)  
-- CompTIA **Security+** (SY0-701) → Target Date: **Nov 30, 2025**  
+- CompTIA **Security+** (SY0-701) → Target Date: **Oct 31, 2025**
+- TryHackMe **SAL1 Certification** → Target Date: **Nov 30, 2025**  
 - Splunk Core User *(planned)*  
 
 ---
