@@ -49,7 +49,8 @@ Aspiring SOC Analyst based in Toronto, Canada. Currently studying for **CompTIA 
 ---
 
 ## 🔮 Roadmap (What’s Next)  
-- ✅ Pass CompTIA Security+  
+- ✅ Pass CompTIA Security+
+- 🏅 Complete TryHackMe SOC Level 1 (SAL1) certificate
 - ⚙️ Expand Splunk SIEM lab & publish dashboards  
 - 📑 More Blue Team writeups (packet captures, incident simulations)  
 - 🤝 Grow within Cybersecurity communities
