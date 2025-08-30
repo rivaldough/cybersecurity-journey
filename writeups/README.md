@@ -8,14 +8,20 @@ Each entry includes commands, rules, and key takeaways, written in a consistent 
 ## 📅 Completed Labs (by Date)
 
 ### 2025-07-28
-- [Cyber Kill Chain](./cyber-kill-chain-2025-07-28.md) — Cyber Defence Frameworks (**Easy**)
+- [Cyber Kill Chain](./cyber-kill-chain.md) — Cyber Defence Frameworks (**Easy**)
   - Learned how to break intrusions into phases and map defensive actions.  
 
 ### 2025-08-08
-- [YARA](./yara-2025-08-08.md) — Cyber Threat Intelligence (**Easy**)  
+- [YARA](./yara.md) — Cyber Threat Intelligence (**Easy**)  
   - Practiced writing and running basic YARA rules, explored IOC scanning with Loki.
     
 ### 2025-08-18
-- [Snort](./snort-2025-08-18.md) — Network Security & Traffic Analysis (**Medium**)  
+- [Snort](./snort.md) — Network Security & Traffic Analysis (**Medium**)  
   - Wrote custom Snort rules and tested them against `.pcap` traffic.  
   - Completed “Snort Challenge – The Basics” (reinforcement lab)
+
+### 2025-08-26
+- [Zeek](./zeek.md) — Network Security Monitoring (**Medium**)  
+  - Explored Zeek logs (`conn.log`, `dns.log`, `dhcp.log`) and scripting.  
+  - Wrote custom signatures for HTTP and FTP traffic.  
+  - Completed “Zeek Exercises” (reinforcement lab).  
