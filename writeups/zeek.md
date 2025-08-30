@@ -65,7 +65,7 @@ zeek -C -r case2.pcap sumstats-counttable.zeek
 
 ---
 
-**## 📚 Key Takeaways ##**
+## 📚 Key Takeaways
 
 - Zeek excels at creating structured logs (e.g. conn.log, dns.log) from packet captures.
 - Custom signatures in .sig files let you flag specific traffic patterns (like HTTP passwords or FTP brute force attempts).
