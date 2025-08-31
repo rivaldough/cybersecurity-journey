@@ -1,7 +1,7 @@
 # 🚀 Cybersecurity Journey  
 
 This repo documents my **transition into cybersecurity** — from chef to aspiring SOC Analyst.  
-I’m currently studying for **CompTIA Security+ (SY0-701)** and practicing on [TryHackMe](https://tryhackme.com/p/YOUR-USERNAME).  
+I’m currently studying for **CompTIA Security+ (SY0-701)** and practicing on [TryHackMe](https://tryhackme.com/p/rivaldough).  
 
 ---
 
