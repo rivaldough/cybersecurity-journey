@@ -36,12 +36,6 @@ Aspiring SOC Analyst based in Toronto, Canada. Currently studying for **CompTIA 
 
 ---
 
-## 🔗 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)  
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme)](https://tryhackme.com/p/YOUR-USERNAME)  
-
----
-
 ## 🔮 Roadmap (What’s Next)  
 - ✅ Pass CompTIA Security+
 - 🏅 Complete TryHackMe SOC Level 1 (SAL1) certificate
