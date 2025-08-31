@@ -2,11 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/rivaldough)  
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme)](https://tryhackme.com/p/rivaldough)  
-![Security+](https://img.shields.io/badge/Certification-Security%2B%20(in%20progress)-orange)  
-![Python](https://img.shields.io/badge/Code-Python-blue?logo=python)  
-![SIEM](https://img.shields.io/badge/Tools-SIEM-blue)  
-![IDS/IPS](https://img.shields.io/badge/Tools-IDS%2FIPS-green)  
-![Packet Analysis](https://img.shields.io/badge/Skills-Packet%20Analysis-yellow) 
 
 ---
 
