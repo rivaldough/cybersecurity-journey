@@ -27,7 +27,7 @@ Each file covers a specific course section with a focus on the exam objectives.
 - [4.1 Security Techniques](./4.1-security-techniques.md)
 - [4.2 Asset Management](./4.2-asset-management.md)  
 - [4.3 Vulnerability Management](./4.3-vulnerability-management.md)
-- [4.4 Security Monitoring](./4.4-security-monitoring.md) *(coming soon)*  
+- [4.4 Security Monitoring](./4.4-security-monitoring.md)
 - [4.5 Enterprise Security](./4.5-enterprise-security.md) *(coming soon)*  
 - [4.6 Identity and Access Management](./4.6-identity-and-access-management.md) *(coming soon)*  
 - [4.7 Automation and Orchestration](./4.7-automation-and-orchestration.md) *(coming soon)*  
