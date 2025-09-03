@@ -17,3 +17,8 @@ The goal is to bridge **cybersecurity theory** with **practical, real-world even
   A current breach of a women’s safety app that exposed ~72,000 images and over 1.1M private messages, leading to lawsuits and reputational collapse.  
   - **Focus:** Data protection, database security, privacy, incident response.  
   - **Mapped To:** Security+ (Data Security / Monitoring), SOC workflows (DLP, IR playbooks, threat intelligence).  
+
+- [Edward Snowden Insider Threat (2013)](./snowden-insider-threat.md)  
+  A high-profile insider threat where an NSA contractor exfiltrated classified documents, exploiting overprivileged access and weak monitoring.  
+  - **Focus:** Insider threats, privileged access, monitoring failures.  
+  - **Mapped To:** Security+ (Access Control / Insider Threats), SOC workflows (UEBA, PAM, IR playbooks).  
