@@ -25,6 +25,3 @@ Each entry includes commands, rules, and key takeaways, written in a consistent 
   - Explored Zeek logs (`conn.log`, `dns.log`, `dhcp.log`) and scripting.  
   - Wrote custom signatures for HTTP and FTP traffic.  
   - Completed “Zeek Exercises” (reinforcement lab).
-
-## 📂 Case Studies
-- [MrBeast & Erik Bergman Phishing Scam](case-studies/mrbeast-erik-bergman-phishing.md)
