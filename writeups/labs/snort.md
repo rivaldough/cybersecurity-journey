@@ -5,7 +5,6 @@
 - **Difficulty:** Medium
 - **Category:** Network Security and Traffic Analysis
 - **Date Completed:** 2025-08-18
-
 ---
 
 ## 🎯 Objectives
