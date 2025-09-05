@@ -25,3 +25,8 @@ Each entry includes commands, rules, and key takeaways, written in a consistent 
   - Explored Zeek logs (`conn.log`, `dns.log`, `dhcp.log`) and scripting.  
   - Wrote custom signatures for HTTP and FTP traffic.  
   - Completed “Zeek Exercises” (reinforcement lab).
+
+### 2025-08-30
+- [Wireshark Labs](./wireshark/README.md) — Packet Analysis (**Easy → Medium**)  
+  - Completed three Wireshark rooms on TryHackMe: Basics, Packet Operations, and Traffic Analysis.  
+  - Practiced filtering (`http.request`, `dns.qry.name`, `tcp.flags`), following streams, and extracting artifacts from `.pcap` files. 
