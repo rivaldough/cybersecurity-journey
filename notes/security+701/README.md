@@ -32,7 +32,7 @@ Each file covers a specific course section with a focus on the exam objectives.
 - [4.6 Identity and Access Management](./4.6-identity-and-access-management.md)  
 - [4.7 Automation and Orchestration](./4.7-automation-and-orchestration.md)
 - [4.8 Incident Response](./4.8-incident-response.md)  
-- [4.9 Security Data Sources](./4.9-security-data-sources.md) *(coming soon)*  
+- [4.9 Security Data Sources](./4.9-security-data-sources.md)
 
 ### Section 5: Security Program Management and Oversight
 - [5.1 Security Governance](./5.1-security-governance.md) *(coming soon)*  
