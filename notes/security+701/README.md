@@ -35,7 +35,7 @@ Each file covers a specific course section with a focus on the exam objectives.
 - [4.9 Security Data Sources](./4.9-security-data-sources.md)
 
 ### Section 5: Security Program Management and Oversight
-- [5.1 Security Governance](./5.1-security-governance.md) *(coming soon)*  
+- [5.1 Security Governance](./5.1-security-governance.md) 
 - [5.2 Risk Management](./5.2-risk-management.md) *(coming soon)*  
 - [5.3 Third-party Risk](./5.3-third-party-risk.md) *(coming soon)*  
 - [5.4 Security Compliance](./5.4-security-compliance.md) *(coming soon)*  
