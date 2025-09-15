@@ -37,7 +37,7 @@ Each file covers a specific course section with a focus on the exam objectives.
 ### Section 5: Security Program Management and Oversight
 - [5.1 Security Governance](./5.1-security-governance.md) 
 - [5.2 Risk Management](./5.2-risk-management.md)
-- [5.3 Third-party Risk](./5.3-third-party-risk.md) *(coming soon)*  
-- [5.4 Security Compliance](./5.4-security-compliance.md) *(coming soon)*  
-- [5.5 Audits and Assessments](./5.5-audits-and-assessments.md) *(coming soon)*  
-- [5.6 Security Awareness](./5.6-security-awareness.md) *(coming soon)*  
+- [5.3 Third-party Risk](./5.3-third-party-risk.md) 
+- [5.4 Security Compliance](./5.4-security-compliance.md)
+- [5.5 Audits and Assessments](./5.5-audits-and-assessments.md)
+- [5.6 Security Awareness](./5.6-security-awareness.md)
