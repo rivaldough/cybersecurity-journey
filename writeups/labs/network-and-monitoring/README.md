@@ -9,7 +9,7 @@ Each lab explores tools used in both traditional network defense and modern clou
 
 - [Snort](./snort.md) — Built and tested custom intrusion-detection rules using `.pcap` samples.  
 - [Zeek](./zeek.md) — Parsed network logs and created signatures for HTTP/FTP traffic.  
-- [Wireshark Labs](./wireshark.md) — Analyzed captured packets, filtered protocols, and extracted artifacts.
+- [Wireshark Labs](./wireshark) — Analyzed captured packets, filtered protocols, and extracted artifacts.
 
 ---
 
