@@ -7,7 +7,7 @@ Each folder contains detailed write-ups with objectives, key takeaways, and appl
 
 ## 📁 Categories
 
-| Category | Focus |
+|  | Focus |
 |-----------|-------|
 | 🧠 [Security Fundamentals](./security-fundamentals) | Frameworks, methodologies, and defensive principles |
 | 🌐 [Network & Monitoring](./network-and-monitoring) | Traffic analysis, intrusion detection, and log inspection |
