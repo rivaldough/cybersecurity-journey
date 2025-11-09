@@ -1,4 +1,11 @@
 # 🛡️ Cloud & Cybersecurity Portfolio – Rivaldo Monroe  
+<p align="center">
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B%20(SY0--701)-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-Blue%20Team%20Labs-CC0000?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Systems%20Admin-333333?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/rivaldough)  
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme)](https://tryhackme.com/p/rivaldough)  
