@@ -16,7 +16,7 @@ I’m passionate about **defensive security**, **identity management**, and **se
 
 ## 🏆 Achievements  
 
-- 🥇 **Reached TryHackMe Sapphire League (August 2025)**  
+- 🥇 **1st Place in TryHackMe Sapphire League (August 2025)**
 - 🔥 Maintaining a daily TryHackMe streak with Blue-Team and Cloud-focused rooms  
 - 🧠 Built a structured GitHub portfolio documenting my learning path and projects  
 
